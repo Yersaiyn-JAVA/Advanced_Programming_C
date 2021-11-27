@@ -1,6 +1,6 @@
 #include <iostream>
-#include "Header files/Course.h"
-#include "Header files/Student.h"
+#include "../Header files/Course.h"
+#include "../Header files/Student.h"
 #include <stdlib.h>
 #include <time.h>
 using namespace std;
