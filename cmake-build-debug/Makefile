@@ -129,53 +129,53 @@ FinalExam/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/build
 .PHONY : FinalExam/fast
 
-Course.o: Course.cpp.o
-.PHONY : Course.o
+Source_files/Course.o: Source_files/Course.cpp.o
+.PHONY : Source_files/Course.o
 
 # target to build an object file
-Course.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/Course.cpp.o
-.PHONY : Course.cpp.o
+Source_files/Course.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/Source_files/Course.cpp.o
+.PHONY : Source_files/Course.cpp.o
 
-Course.i: Course.cpp.i
-.PHONY : Course.i
+Source_files/Course.i: Source_files/Course.cpp.i
+.PHONY : Source_files/Course.i
 
 # target to preprocess a source file
-Course.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/Course.cpp.i
-.PHONY : Course.cpp.i
+Source_files/Course.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/Source_files/Course.cpp.i
+.PHONY : Source_files/Course.cpp.i
 
-Course.s: Course.cpp.s
-.PHONY : Course.s
+Source_files/Course.s: Source_files/Course.cpp.s
+.PHONY : Source_files/Course.s
 
 # target to generate assembly for a file
-Course.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/Course.cpp.s
-.PHONY : Course.cpp.s
+Source_files/Course.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/Source_files/Course.cpp.s
+.PHONY : Source_files/Course.cpp.s
 
-Student.o: Student.cpp.o
-.PHONY : Student.o
+Source_files/Student.o: Source_files/Student.cpp.o
+.PHONY : Source_files/Student.o
 
 # target to build an object file
-Student.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/Student.cpp.o
-.PHONY : Student.cpp.o
+Source_files/Student.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/Source_files/Student.cpp.o
+.PHONY : Source_files/Student.cpp.o
 
-Student.i: Student.cpp.i
-.PHONY : Student.i
+Source_files/Student.i: Source_files/Student.cpp.i
+.PHONY : Source_files/Student.i
 
 # target to preprocess a source file
-Student.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/Student.cpp.i
-.PHONY : Student.cpp.i
+Source_files/Student.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/Source_files/Student.cpp.i
+.PHONY : Source_files/Student.cpp.i
 
-Student.s: Student.cpp.s
-.PHONY : Student.s
+Source_files/Student.s: Source_files/Student.cpp.s
+.PHONY : Source_files/Student.s
 
 # target to generate assembly for a file
-Student.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/Student.cpp.s
-.PHONY : Student.cpp.s
+Source_files/Student.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FinalExam.dir/build.make CMakeFiles/FinalExam.dir/Source_files/Student.cpp.s
+.PHONY : Source_files/Student.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -210,12 +210,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... FinalExam"
-	@echo "... Course.o"
-	@echo "... Course.i"
-	@echo "... Course.s"
-	@echo "... Student.o"
-	@echo "... Student.i"
-	@echo "... Student.s"
+	@echo "... Source_files/Course.o"
+	@echo "... Source_files/Course.i"
+	@echo "... Source_files/Course.s"
+	@echo "... Source_files/Student.o"
+	@echo "... Source_files/Student.i"
+	@echo "... Source_files/Student.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

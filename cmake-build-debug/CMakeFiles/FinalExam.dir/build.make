@@ -79,44 +79,44 @@ CMakeFiles/FinalExam.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalExam.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yersajyn/CLionProjects/FinalExam/main.cpp -o CMakeFiles/FinalExam.dir/main.cpp.s
 
-CMakeFiles/FinalExam.dir/Student.cpp.o: CMakeFiles/FinalExam.dir/flags.make
-CMakeFiles/FinalExam.dir/Student.cpp.o: ../Student.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yersajyn/CLionProjects/FinalExam/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/FinalExam.dir/Student.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalExam.dir/Student.cpp.o -c /Users/yersajyn/CLionProjects/FinalExam/Student.cpp
+CMakeFiles/FinalExam.dir/Source_files/Student.cpp.o: CMakeFiles/FinalExam.dir/flags.make
+CMakeFiles/FinalExam.dir/Source_files/Student.cpp.o: ../Source\ files/Student.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yersajyn/CLionProjects/FinalExam/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/FinalExam.dir/Source_files/Student.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalExam.dir/Source_files/Student.cpp.o -c "/Users/yersajyn/CLionProjects/FinalExam/Source files/Student.cpp"
 
-CMakeFiles/FinalExam.dir/Student.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalExam.dir/Student.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yersajyn/CLionProjects/FinalExam/Student.cpp > CMakeFiles/FinalExam.dir/Student.cpp.i
+CMakeFiles/FinalExam.dir/Source_files/Student.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalExam.dir/Source_files/Student.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yersajyn/CLionProjects/FinalExam/Source files/Student.cpp" > CMakeFiles/FinalExam.dir/Source_files/Student.cpp.i
 
-CMakeFiles/FinalExam.dir/Student.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalExam.dir/Student.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yersajyn/CLionProjects/FinalExam/Student.cpp -o CMakeFiles/FinalExam.dir/Student.cpp.s
+CMakeFiles/FinalExam.dir/Source_files/Student.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalExam.dir/Source_files/Student.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yersajyn/CLionProjects/FinalExam/Source files/Student.cpp" -o CMakeFiles/FinalExam.dir/Source_files/Student.cpp.s
 
-CMakeFiles/FinalExam.dir/Course.cpp.o: CMakeFiles/FinalExam.dir/flags.make
-CMakeFiles/FinalExam.dir/Course.cpp.o: ../Course.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yersajyn/CLionProjects/FinalExam/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/FinalExam.dir/Course.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalExam.dir/Course.cpp.o -c /Users/yersajyn/CLionProjects/FinalExam/Course.cpp
+CMakeFiles/FinalExam.dir/Source_files/Course.cpp.o: CMakeFiles/FinalExam.dir/flags.make
+CMakeFiles/FinalExam.dir/Source_files/Course.cpp.o: ../Source\ files/Course.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yersajyn/CLionProjects/FinalExam/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/FinalExam.dir/Source_files/Course.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalExam.dir/Source_files/Course.cpp.o -c "/Users/yersajyn/CLionProjects/FinalExam/Source files/Course.cpp"
 
-CMakeFiles/FinalExam.dir/Course.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalExam.dir/Course.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yersajyn/CLionProjects/FinalExam/Course.cpp > CMakeFiles/FinalExam.dir/Course.cpp.i
+CMakeFiles/FinalExam.dir/Source_files/Course.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalExam.dir/Source_files/Course.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yersajyn/CLionProjects/FinalExam/Source files/Course.cpp" > CMakeFiles/FinalExam.dir/Source_files/Course.cpp.i
 
-CMakeFiles/FinalExam.dir/Course.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalExam.dir/Course.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yersajyn/CLionProjects/FinalExam/Course.cpp -o CMakeFiles/FinalExam.dir/Course.cpp.s
+CMakeFiles/FinalExam.dir/Source_files/Course.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalExam.dir/Source_files/Course.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yersajyn/CLionProjects/FinalExam/Source files/Course.cpp" -o CMakeFiles/FinalExam.dir/Source_files/Course.cpp.s
 
 # Object files for target FinalExam
 FinalExam_OBJECTS = \
 "CMakeFiles/FinalExam.dir/main.cpp.o" \
-"CMakeFiles/FinalExam.dir/Student.cpp.o" \
-"CMakeFiles/FinalExam.dir/Course.cpp.o"
+"CMakeFiles/FinalExam.dir/Source_files/Student.cpp.o" \
+"CMakeFiles/FinalExam.dir/Source_files/Course.cpp.o"
 
 # External object files for target FinalExam
 FinalExam_EXTERNAL_OBJECTS =
 
 FinalExam: CMakeFiles/FinalExam.dir/main.cpp.o
-FinalExam: CMakeFiles/FinalExam.dir/Student.cpp.o
-FinalExam: CMakeFiles/FinalExam.dir/Course.cpp.o
+FinalExam: CMakeFiles/FinalExam.dir/Source_files/Student.cpp.o
+FinalExam: CMakeFiles/FinalExam.dir/Source_files/Course.cpp.o
 FinalExam: CMakeFiles/FinalExam.dir/build.make
 FinalExam: CMakeFiles/FinalExam.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yersajyn/CLionProjects/FinalExam/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable FinalExam"

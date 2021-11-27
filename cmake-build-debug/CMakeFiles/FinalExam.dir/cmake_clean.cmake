@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/FinalExam.dir/Course.cpp.o"
-  "CMakeFiles/FinalExam.dir/Student.cpp.o"
+  "CMakeFiles/FinalExam.dir/Source_files/Course.cpp.o"
+  "CMakeFiles/FinalExam.dir/Source_files/Student.cpp.o"
   "CMakeFiles/FinalExam.dir/main.cpp.o"
   "FinalExam"
   "FinalExam.pdb"

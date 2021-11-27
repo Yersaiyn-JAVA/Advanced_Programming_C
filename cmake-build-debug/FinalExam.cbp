@@ -80,16 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/yersajyn/CLionProjects/FinalExam/Course.cpp">
+		<Unit filename="/Users/yersajyn/CLionProjects/FinalExam/Source files/Course.cpp">
 			<Option target="FinalExam"/>
 		</Unit>
-		<Unit filename="/Users/yersajyn/CLionProjects/FinalExam/Course.h">
-			<Option target="FinalExam"/>
-		</Unit>
-		<Unit filename="/Users/yersajyn/CLionProjects/FinalExam/Student.cpp">
-			<Option target="FinalExam"/>
-		</Unit>
-		<Unit filename="/Users/yersajyn/CLionProjects/FinalExam/Student.h">
+		<Unit filename="/Users/yersajyn/CLionProjects/FinalExam/Source files/Student.cpp">
 			<Option target="FinalExam"/>
 		</Unit>
 		<Unit filename="/Users/yersajyn/CLionProjects/FinalExam/main.cpp">
